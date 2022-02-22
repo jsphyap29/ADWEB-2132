@@ -1,0 +1,13 @@
+.about-cont p{
+    padding: 50px;
+    line-height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+
+}
+
+h1 {
+    padding:  75px 50px 25px 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
